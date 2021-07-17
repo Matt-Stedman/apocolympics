@@ -1,17 +1,17 @@
 ## CUSTOM IGNORES
 # Starter content
-Content/Animations/FPS_Starter/
-Content/Animations/UE4_Mannequin/
-Content/Geometry/FPS_Starter/
-Content/Mannequin/FPS_Starter/
-Content/StarterContent
+#Content/Animations/FPS_Starter/
+#Content/Animations/UE4_Mannequin/
+#Content/Geometry/FPS_Starter/
+#Content/Mannequin/FPS_Starter/
+#Content/StarterContent
 
 # Legacy Content
-Content/Animations/0-Athletes/99-Legacy/
+#Content/Animations/0-Athletes/99-Legacy/
 
 # Debug content
-Content/Developers/
-Content/Maps/0-Playground_Debug/
+#Content/Developers/
+#Content/Maps/0-Playground_Debug/
 
 ## STANDARD (ORIGINAL) IGNORES
 # UE4 compile files, never needed to share and absolutely massive!
