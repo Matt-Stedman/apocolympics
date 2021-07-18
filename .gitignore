@@ -13,6 +13,9 @@ Content/Animations/0-Athletes/99-Legacy/
 Content/Developers/
 Content/Maps/0-Playground_Debug/
 
+# Local Only
+Downloads/local/
+
 ## STANDARD (ORIGINAL) IGNORES
 # UE4 compile files, never needed to share and absolutely massive!
 Binaries
