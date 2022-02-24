@@ -18,6 +18,8 @@ Content/Maps/0-Playground_Debug/
 Downloads/local/
 LocalContent/
 
+# Large Build Files (just remember to rebuild if things start looking visually funny)
+*_BuiltData.uasset
 
 ## STANDARD (ORIGINAL) IGNORES
 # UE4 compile files, never needed to share and absolutely massive!
